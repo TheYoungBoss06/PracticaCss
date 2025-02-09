@@ -190,7 +190,7 @@ ul.nav li {
   }
 
   .img3 {
-    height: 39%;
+    height: 40%;
     margin-bottom: 20px;
   }
 
@@ -230,4 +230,3 @@ ul.nav li {
   img:hover {
     transform: scale(1.1);
   }
-
